@@ -18,7 +18,7 @@ const Navbar = () => {
               className={`${
                 item.title === "Mock Test"
                   ? "text-[#48b8b6]"
-                  : "text-gray-300 group-hover:text-[#48b8b6]"
+                  : "text-gray-300 hover:text-[#48b8b6]"
               } flex gap-x-1.5 items-center cursor-pointer group delay-100 transition-all`}
               key={item.title}
             >
