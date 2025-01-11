@@ -1,4 +1,4 @@
-# FIrstbench Internship Task
+# Firstbench Internship Task
 
 ## Get started
 
