@@ -4,7 +4,7 @@ import { TbFileImport } from "react-icons/tb";
 
 const Score = () => {
   return (
-    <div className="w-[28%] bg-[#f6f7fc] p-4 shadow-sm shadow-gray-300 border border-gray-300 rounded-md flex flex-col items-center gap-y-8">
+    <div className="w-full xl:w-[28%] bg-[#f6f7fc] p-4 shadow-sm shadow-gray-300 border border-gray-300 rounded-md flex flex-col items-center gap-y-8">
       <div className="flex flex-col items-center">
         <img src="/result.png" alt="Result" className="w-[150px]" />
         <p className="text-[#6a6fc3] font-semibold text-2xl">Your Result!</p>
